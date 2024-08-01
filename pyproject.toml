@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "airflow-etl-twitter"
+version = "0.1.0"
+description = ""
+authors = ["clayton.campos <clayton.almeida.campos@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.9.19"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
