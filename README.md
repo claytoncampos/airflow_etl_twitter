@@ -31,11 +31,11 @@ acesse: localhost:8080
 
 setar os parametros abaixo na UI do Airflow > connections
 ```
-conection_id: twitter_default</br>
-conexao type:  http </br>
-host:  https://labdados.com</br>
-extra:{"Authorization": "Bearer None"}</br>
-</br>
+conection_id: twitter_default
+conexao type:  http 
+host:  https://labdados.com
+extra:{"Authorization": "Bearer None"}
+
 ```
 
 
